@@ -4,7 +4,7 @@
 
 ### Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Technology+that+Matters;Always+Learning+and+Creating;AI+%7C+Research+%7C+Software+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!" />
 
 <br>
 
