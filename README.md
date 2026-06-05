@@ -15,14 +15,3 @@ I'm a Computer Science undergraduate passionate about building intelligent syste
 My interests lie at the intersection of **Artificial Intelligence, Research, Full Stack Development, and Software Engineering**. I enjoy transforming ideas into practical solutions through innovative projects, hackathons, and research-driven development.
 
 Currently, I'm focused on advancing my expertise in **AI Research, Deep Learning, Computer Vision, Explainable AI, and Scalable Software Systems**.
-
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
-<h3 align="center">
-Building intelligent systems that solve meaningful problems 🚀
-</h3>
