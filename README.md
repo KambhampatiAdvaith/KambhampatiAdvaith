@@ -19,9 +19,9 @@ I'm **K. Advaith**, a Computer Science undergraduate exploring and integrating n
 ## Beyond The Code
 
 When I'm away from the keyboard, you'll probably find me:
-- Playing badminton
-- Capturing moments through photography
-- Writing and sharing ideas
+- Playing Outdoor Sports
+- Finding stories through the lens
+- Writing Blogs
 
 ---
 
