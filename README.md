@@ -12,7 +12,7 @@
 
 ##  Hola!
 
-I'm **K. Advaith**, a Computer Science undergraduate exploring Computer Science and integrating new technologies.
+I'm **K. Advaith**, a Computer Science undergraduate exploring and integrating new technologies.
 > **Photographer by passion**  
 > **Developer by profession**  
 
@@ -21,13 +21,9 @@ I'm **K. Advaith**, a Computer Science undergraduate exploring Computer Science 
 ## Beyond The Code
 
 When I'm away from the keyboard, you'll probably find me:
-
 - Playing badminton
-
 - Capturing moments through photography
-
 - Writing and sharing ideas
-
 
 ---
 
