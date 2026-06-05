@@ -29,13 +29,12 @@ I enjoy transforming ideas into products, research into solutions, and challenge
 
 When I'm away from the keyboard, you'll probably find me:
 
-🏸 Playing badminton
+- Playing badminton
 
-📸 Capturing moments through photography
+- Capturing moments through photography
 
-✍️ Writing and sharing ideas
+- Writing and sharing ideas
 
-🌍 Exploring emerging technologies
 
 ---
 
@@ -77,12 +76,12 @@ When I'm away from the keyboard, you'll probably find me:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KambhampatiAdvaith&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KambhampatiAdvaith&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KambhampatiAdvaith&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
