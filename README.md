@@ -1,8 +1,6 @@
 <h1 align="center">K Advaith</h1>
 
-<h3 align="center">
-🚀 AI Engineer • Research Enthusiast • Full Stack Developer
-</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Building+Technology+for+Real+World+Impact;Full+Stack+Developer+%7C+Researcher;Always+Learning+and+Creating" />
@@ -10,7 +8,7 @@
 
 ---
 
-## 👋 Welcome to My GitHub
+## Welcome to My GitHub
 
 I'm a Computer Science undergraduate passionate about building intelligent systems that create real-world impact.
 
