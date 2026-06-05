@@ -31,9 +31,9 @@ When I'm away from the keyboard, you'll probably find me:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### AI & Research
+### AI & ML
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,python" />
